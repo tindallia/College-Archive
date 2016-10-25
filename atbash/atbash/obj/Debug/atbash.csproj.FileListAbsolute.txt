@@ -1,0 +1,6 @@
+c:\users\audrey\documents\visual studio 2013\Projects\atbash\atbash\bin\Debug\atbash.exe.config
+c:\users\audrey\documents\visual studio 2013\Projects\atbash\atbash\bin\Debug\atbash.exe
+c:\users\audrey\documents\visual studio 2013\Projects\atbash\atbash\bin\Debug\atbash.pdb
+c:\users\audrey\documents\visual studio 2013\Projects\atbash\atbash\obj\Debug\atbash.exe
+c:\users\audrey\documents\visual studio 2013\Projects\atbash\atbash\obj\Debug\atbash.pdb
+c:\users\audrey\documents\visual studio 2013\Projects\atbash\atbash\obj\Debug\atbash.csprojResolveAssemblyReference.cache

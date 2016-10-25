@@ -1,0 +1,6 @@
+c:\users\audrey\documents\visual studio 2013\Projects\affine\affine\bin\Debug\affine.exe.config
+c:\users\audrey\documents\visual studio 2013\Projects\affine\affine\bin\Debug\affine.exe
+c:\users\audrey\documents\visual studio 2013\Projects\affine\affine\bin\Debug\affine.pdb
+c:\users\audrey\documents\visual studio 2013\Projects\affine\affine\obj\Debug\affine.csprojResolveAssemblyReference.cache
+c:\users\audrey\documents\visual studio 2013\Projects\affine\affine\obj\Debug\affine.exe
+c:\users\audrey\documents\visual studio 2013\Projects\affine\affine\obj\Debug\affine.pdb

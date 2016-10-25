@@ -1,0 +1,6 @@
+c:\users\audrey\documents\visual studio 2013\Projects\autokey\autokey\bin\Debug\autokey.exe.config
+c:\users\audrey\documents\visual studio 2013\Projects\autokey\autokey\bin\Debug\autokey.exe
+c:\users\audrey\documents\visual studio 2013\Projects\autokey\autokey\bin\Debug\autokey.pdb
+c:\users\audrey\documents\visual studio 2013\Projects\autokey\autokey\obj\Debug\autokey.exe
+c:\users\audrey\documents\visual studio 2013\Projects\autokey\autokey\obj\Debug\autokey.pdb
+C:\Users\Audrey\documents\visual studio 2013\Projects\autokey\autokey\obj\Debug\autokey.csprojResolveAssemblyReference.cache
