@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Numerics;
 
 namespace RSA
 {
@@ -66,20 +67,17 @@ namespace RSA
         public void init(out int p, out int q, out int e, out int d, out int n, out string plaintext)
         {
             Random r = new Random();
-            /*p = r.Next(100);
-            q = r.Next(100);
+            p = r.Next(255);
+            q = r.Next(255);
             while (!isPrime(p))
-                p = r.Next(100);
+                p = r.Next(255);
             while (!isPrime(q))
-                q = r.Next(100);*/
-            p = 61;
-            q = 53;
+                q = r.Next(255);
             n = p * q;
             int totient = n - (p + q - 1);
-            e = 17;
-            /* e = r.Next(1, totient);
-            while (!coprime(e, n))
-                e = r.Next(1, totient);*/
+            e = r.Next(1, totient);
+            while (!coprime(e, totient))
+                e = r.Next(1, totient);
             d = invMod(e, totient);
             int[] publicKey = new int[] { n, e };
             int privateKey = d;
@@ -91,36 +89,41 @@ namespace RSA
                 Console.WriteLine("Value of q: " + q);
                 Console.WriteLine("Value of e: " + e);
                 Console.WriteLine("Value of d: " + d);
-                Console.WriteLine("Value of totient: " + totient);
+                Console.WriteLine("Value of n: " + n);
                 Console.Write("Enter plaintext: "); plaintext = Console.ReadLine();
             } while (plaintext == "");
+            plaintext = plaintext.Replace(" ", "");
         }
-        public double[] encrypt(string plaintext,int e,int n)
+        public int[] encrypt(string plaintext,int e,int n)
         {
-            double[] arr = new double[plaintext.Length];
+            int[] arr = new int[plaintext.Length];
             char[] buf = plaintext.ToCharArray();
-            double temp;
+            BigInteger BI, temp;
             int y = 0;
             for (int i = 0; i < plaintext.Length; i++)
             {
                 y = (int)buf[i];
-                temp = Math.Pow(y, e);
-                Console.WriteLine("y: " + y);
-                arr[i] = temp % n;
+                BI = BigInteger.Pow(y, e);
+                temp = BI % n;
+                arr[i] = (int)temp;
+                Console.WriteLine(buf[i] + " -> " + y);
+                Console.WriteLine(y + " ^ " + e + " % " + n + " = " + temp + "\n");
             }
             return arr;
         }
-        public string decrypt(double[] ciphertext, int d, int n)
+        public string decrypt(int[] ciphertext, int d, int n)
         {
             string s = "";
-            double temp = 0;
+            BigInteger BI, temp;
             double temp2;
             foreach(int i in ciphertext)
             {
-                temp = Math.Pow(i,d);
-                temp2 = temp % n;
-                Console.WriteLine(i + " ^ " + d + " % " + n + " = " + temp);
+                BI = BigInteger.Pow(i, d);
+                temp = BI % n;
+                temp2 = (int)temp;
                 char t = (char)temp;
+                Console.WriteLine(i + " ^ " + d + " % " + n + " = " + temp2 );
+                Console.WriteLine(temp2 + " -> " + t + "\n");
                 s += t;
             }
             return s;

@@ -14,10 +14,12 @@ namespace RSA
             string plaintext;
             func f = new func();
             f.init(out prime1, out prime2, out e, out d, out n, out plaintext);
-            double[] ciphertext = f.encrypt(plaintext, e, n);
+            Console.WriteLine("Encryption in progress...");
+            int[] ciphertext = f.encrypt(plaintext, e, n);
             Console.Write("Encrypted text: ");
             foreach (int i in ciphertext)
-                Console.Write(i);
+                Console.Write(i + " ");
+            Console.WriteLine("\n\nPress any key to continue..."); Console.ReadKey(true);
             Console.WriteLine();
             string decrypted = f.decrypt(ciphertext, d, n);
             Console.WriteLine("Decrypted text: " + decrypted);
