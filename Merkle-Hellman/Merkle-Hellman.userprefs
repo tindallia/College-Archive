@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Merkle-Hellman/Merkle-Hellman.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Merkle-Hellman/Program.cs">
+    <Files>
+      <File FileName="Merkle-Hellman/Program.cs" Line="77" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

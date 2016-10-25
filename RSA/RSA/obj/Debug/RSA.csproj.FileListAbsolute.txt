@@ -1,0 +1,6 @@
+c:\users\audrey\documents\visual studio 2013\Projects\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\RSA\RSA\obj\Debug\RSA.pdb

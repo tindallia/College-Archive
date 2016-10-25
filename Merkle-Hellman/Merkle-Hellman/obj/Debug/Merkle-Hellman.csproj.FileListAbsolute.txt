@@ -1,0 +1,6 @@
+c:\users\audrey\documents\visual studio 2013\Projects\Merkle-Hellman\Merkle-Hellman\bin\Debug\Merkle-Hellman.exe.config
+c:\users\audrey\documents\visual studio 2013\Projects\Merkle-Hellman\Merkle-Hellman\bin\Debug\Merkle-Hellman.exe
+c:\users\audrey\documents\visual studio 2013\Projects\Merkle-Hellman\Merkle-Hellman\bin\Debug\Merkle-Hellman.pdb
+c:\users\audrey\documents\visual studio 2013\Projects\Merkle-Hellman\Merkle-Hellman\obj\Debug\Merkle-Hellman.exe
+c:\users\audrey\documents\visual studio 2013\Projects\Merkle-Hellman\Merkle-Hellman\obj\Debug\Merkle-Hellman.pdb
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Merkle-Hellman\Merkle-Hellman\obj\Debug\Merkle-Hellman.csprojResolveAssemblyReference.cache

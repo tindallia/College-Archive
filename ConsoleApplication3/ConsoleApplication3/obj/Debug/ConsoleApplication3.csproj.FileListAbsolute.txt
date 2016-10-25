@@ -1,0 +1,6 @@
+c:\users\audrey\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\audrey\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\checkerboard.exe.config
+c:\users\audrey\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\checkerboard.exe
+c:\users\audrey\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\checkerboard.pdb
+c:\users\audrey\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\checkerboard.exe
+c:\users\audrey\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\checkerboard.pdb

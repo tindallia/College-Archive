@@ -1,0 +1,6 @@
+c:\users\audrey\documents\visual studio 2013\Projects\vigenere\vigenere\bin\Debug\vigenere.exe.config
+c:\users\audrey\documents\visual studio 2013\Projects\vigenere\vigenere\obj\Debug\vigenere.csprojResolveAssemblyReference.cache
+c:\users\audrey\documents\visual studio 2013\Projects\vigenere\vigenere\bin\Debug\vigenere.exe
+c:\users\audrey\documents\visual studio 2013\Projects\vigenere\vigenere\bin\Debug\vigenere.pdb
+c:\users\audrey\documents\visual studio 2013\Projects\vigenere\vigenere\obj\Debug\vigenere.exe
+c:\users\audrey\documents\visual studio 2013\Projects\vigenere\vigenere\obj\Debug\vigenere.pdb

@@ -1,0 +1,6 @@
+c:\users\audrey\documents\visual studio 2013\Projects\hillfixed\hillfixed\bin\Debug\hillfixed.exe.config
+c:\users\audrey\documents\visual studio 2013\Projects\hillfixed\hillfixed\bin\Debug\hillfixed.exe
+c:\users\audrey\documents\visual studio 2013\Projects\hillfixed\hillfixed\bin\Debug\hillfixed.pdb
+c:\users\audrey\documents\visual studio 2013\Projects\hillfixed\hillfixed\obj\Debug\hillfixed.csprojResolveAssemblyReference.cache
+c:\users\audrey\documents\visual studio 2013\Projects\hillfixed\hillfixed\obj\Debug\hillfixed.exe
+c:\users\audrey\documents\visual studio 2013\Projects\hillfixed\hillfixed\obj\Debug\hillfixed.pdb

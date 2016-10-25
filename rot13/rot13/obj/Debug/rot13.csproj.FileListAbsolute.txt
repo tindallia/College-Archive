@@ -1,0 +1,5 @@
+c:\users\audrey\documents\visual studio 2013\Projects\rot13\rot13\bin\Debug\rot13.exe.config
+c:\users\audrey\documents\visual studio 2013\Projects\rot13\rot13\bin\Debug\rot13.exe
+c:\users\audrey\documents\visual studio 2013\Projects\rot13\rot13\bin\Debug\rot13.pdb
+c:\users\audrey\documents\visual studio 2013\Projects\rot13\rot13\obj\Debug\rot13.exe
+c:\users\audrey\documents\visual studio 2013\Projects\rot13\rot13\obj\Debug\rot13.pdb

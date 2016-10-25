@@ -1,0 +1,6 @@
+c:\users\audrey\documents\visual studio 2013\Projects\hill\hill\bin\Debug\hill.exe.config
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\hill\hill\obj\Debug\hill.csprojResolveAssemblyReference.cache
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\hill\hill\bin\Debug\hill.exe
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\hill\hill\bin\Debug\hill.pdb
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\hill\hill\obj\Debug\hill.exe
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\hill\hill\obj\Debug\hill.pdb

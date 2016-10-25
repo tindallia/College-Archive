@@ -1,0 +1,6 @@
+c:\users\audrey\documents\visual studio 2013\Projects\rail\rail\bin\Debug\rail.exe.config
+c:\users\audrey\documents\visual studio 2013\Projects\rail\rail\bin\Debug\rail.exe
+c:\users\audrey\documents\visual studio 2013\Projects\rail\rail\bin\Debug\rail.pdb
+c:\users\audrey\documents\visual studio 2013\Projects\rail\rail\obj\Debug\rail.csprojResolveAssemblyReference.cache
+c:\users\audrey\documents\visual studio 2013\Projects\rail\rail\obj\Debug\rail.exe
+c:\users\audrey\documents\visual studio 2013\Projects\rail\rail\obj\Debug\rail.pdb
